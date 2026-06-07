@@ -1,6 +1,6 @@
 <div align="center">
 
-# < Autenticação Desenvolvedor  />
+# < Developer Authentication  />
 
 </div>
 
